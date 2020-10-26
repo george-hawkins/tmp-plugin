@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.george-hawkins.tmpplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.george-hawkins.tmpplugin.MyBundle
 
 class MyApplicationService {
 
